@@ -1,0 +1,19 @@
+6379=> redisin default portudur
+
+
+Dockerize ettim 
+docker run --name redis -p 1453:6379 -d redis
+
+
+bağlantıyı kontrol ettim
+docker ps
+
+
+CONTAINER ID  ile  ping kontrolü ettim PONG geldiyse bir sıkıntı yok demektir 
+
+docker exec -it e651b30b7711 redis-cli --raw
+
+127.0.0.1:6379> PING
+
+
+

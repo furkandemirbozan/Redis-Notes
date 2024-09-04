@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Belgeler\\Dev\\Redis\\Redis_Cache_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE04C8B-DA2A-405F-BE38-F3256E0086DF}|Redis.Sentinel\\Redis.Sentinel.csproj|c:\\users\\hp\\belgeler\\dev\\redis\\redis_cache_example\\redis.sentinel\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE04C8B-DA2A-405F-BE38-F3256E0086DF}|Redis.Sentinel\\Redis.Sentinel.csproj|solutionrelative:redis.sentinel\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE04C8B-DA2A-405F-BE38-F3256E0086DF}|Redis.Sentinel\\Redis.Sentinel.csproj|c:\\users\\hp\\belgeler\\dev\\redis\\redis_cache_example\\redis.sentinel\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE04C8B-DA2A-405F-BE38-F3256E0086DF}|Redis.Sentinel\\Redis.Sentinel.csproj|solutionrelative:redis.sentinel\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Belgeler\\Dev\\Redis\\Redis_Cache_Example\\Redis.Sentinel\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "Redis.Sentinel\\Services\\RedisService.cs",
+              "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\Redis\\Redis_Cache_Example\\Redis.Sentinel\\Services\\RedisService.cs",
+              "RelativeToolTip": "Redis.Sentinel\\Services\\RedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:19:58.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Belgeler\\Dev\\Redis\\Redis_Cache_Example\\Redis.Sentinel\\Controllers\\RedisController.cs",
+              "RelativeDocumentMoniker": "Redis.Sentinel\\Controllers\\RedisController.cs",
+              "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\Redis\\Redis_Cache_Example\\Redis.Sentinel\\Controllers\\RedisController.cs",
+              "RelativeToolTip": "Redis.Sentinel\\Controllers\\RedisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:58:06.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
