@@ -1,0 +1,30 @@
+# Visual Studio
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Bin ve obj klasörlerini hariç tut
+bin/
+obj/
+
+# Diğer yaygın dosya ve klasörler
+*.log
+*.lock
+*.pdb
+*.exe
+*.dll
+*.cache
+*.config
+*.csproj.user
+*.dbmdl
+*.mdf
+*.class
+*.jar
+*.war
+*.ear
+
+# MacOS, Windows ve Linux için bazı yaygın dosyalar
+.DS_Store
+Thumbs.db

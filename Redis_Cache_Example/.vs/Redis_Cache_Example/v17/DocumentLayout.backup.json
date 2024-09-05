@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 273,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,6 +29,10 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RedisService.cs",
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "Redis.Sentinel\\Services\\RedisService.cs",
               "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\Redis\\Redis_Cache_Example\\Redis.Sentinel\\Services\\RedisService.cs",
               "RelativeToolTip": "Redis.Sentinel\\Services\\RedisService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T10:19:58.213Z",
               "EditorCaption": ""
